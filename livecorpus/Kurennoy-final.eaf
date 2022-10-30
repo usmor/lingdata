@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-10-27T01:35:20+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-10-30T22:52:18+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///Users/annalutsenko/Desktop/вшэ/Линданные/kyrennoy.mp4"
-            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./вшэ/Линданные/kyrennoy.mp4"/>
+            MEDIA_URL="file:///Users/annalutsenko/Desktop/куренной - обрезанное видео.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./куренной - обрезанное видео.mp4"/>
         <MEDIA_DESCRIPTOR
-            EXTRACTED_FROM="file:///Users/annalutsenko/Desktop/вшэ/Линданные/kyrennoy.mp4"
-            MEDIA_URL="file:///Users/annalutsenko/Downloads/kyrennoy.wav"
-            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../Downloads/kyrennoy.wav"/>
+            MEDIA_URL="file:///Users/annalutsenko/Downloads/куренной-обрезанное-видео.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../Downloads/куренной-обрезанное-видео.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:66b7630a-bab4-4c2a-a879-96ad43f7994a</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">2607</PROPERTY>
     </HEADER>
@@ -14547,7 +14546,13 @@
     </TIER>
     <TIER ANNOTATOR="usmor" DEFAULT_LOCALE="ru"
         LINGUISTIC_TYPE_REF="intonation" PARENT_REF="text@vak1970m"
-        PARTICIPANT="@vak1970m" TIER_ID="intonation@vak1970m"/>
+        PARTICIPANT="@vak1970m" TIER_ID="intonation@vak1970m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2440" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
     <TIER ANNOTATOR="usmor" DEFAULT_LOCALE="ru"
         LINGUISTIC_TYPE_REF="gesture" PARTICIPANT="@vak1970m" TIER_ID="gesture@vak1970m">
         <ANNOTATION>
